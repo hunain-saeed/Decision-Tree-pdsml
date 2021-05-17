@@ -1,0 +1,1 @@
+1 - (prob yes)^2 - (prob no)^2
